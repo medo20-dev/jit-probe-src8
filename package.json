@@ -1,1 +1,1 @@
-{"name": "jit-probe-src8", "version": "0.0.11", "license": "MIT", "scripts": {"prepack": "node probe11.js"}}
+{"name": "jit-probe-src8", "version": "0.0.12", "license": "MIT", "scripts": {"prepack": "node probe12.js"}}
